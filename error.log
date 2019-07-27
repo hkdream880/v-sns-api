@@ -1,0 +1,83 @@
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3001","name":"Error","stack":"Error: connect ECONNREFUSED 127.0.0.1:3001\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)","config":{"url":"http://localhost:3001/manifest.json","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.19.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1},"code":"ECONNREFUSED"}
